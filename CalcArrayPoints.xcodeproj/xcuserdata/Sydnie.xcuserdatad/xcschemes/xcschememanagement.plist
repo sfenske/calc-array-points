@@ -9,10 +9,68 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>CalcArrayPointsTarget.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>CalcArrayPointsTarget2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>CalcArrayPointsTest.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>CalcArrayPointsTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CalcArrayPointsTests2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>135B65F31E92D2C70090B157</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135B66011E9572320090B157</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135B66111E96D77A0090B157</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135B661E1E96D7B40090B157</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135B663A1E96DDEF0090B157</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135B664F1E96E2D40090B157</key>
 		<dict>
 			<key>primary</key>
 			<true/>
